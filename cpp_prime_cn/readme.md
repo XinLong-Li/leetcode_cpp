@@ -111,3 +111,4 @@ lrwxr-xr-x  1 root  wheel  5 Aug  1 12:00 /usr/bin/clang++ -> clang
 
 所以，在 macOS 上，无论你使用 `g++` 还是 `clang++`，它们都会调用 Clang 编译器来编译你的 C++ 代码。
 
+The code in folder `GCC_4_7_0` and `GCC_pre_C11` and downloaded from [this linkage](https://www.informit.com/store/c-plus-plus-primer-9780321714114).
